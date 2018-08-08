@@ -1,7 +1,7 @@
 {
   "name": "tree-view-auto-reveal",
   "main": "./lib/tree-view-auto-reveal",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Automatic reveal active file in Tree View.",
   "keywords": [
     "tree",
