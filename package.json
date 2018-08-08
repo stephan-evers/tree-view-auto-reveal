@@ -1,0 +1,19 @@
+{
+  "name": "tree-view-auto-reveal",
+  "main": "./lib/tree-view-auto-reveal",
+  "version": "1.0.0",
+  "description": "Automatic reveal active file in Tree View.",
+  "keywords": [
+    "tree",
+    "tree-view",
+    "auto reveal",
+    "Reveal in Tree View"
+  ],
+  "repository": "https://github.com/atom/tree-view-auto-reveal",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
